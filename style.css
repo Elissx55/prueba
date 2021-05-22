@@ -1,0 +1,30 @@
+body {
+    font-family: Arial,helvetica;
+    background:#200877;
+    text-decoration: blink;}
+    
+    .menu{
+    list-style: none;
+    padding: 0;
+    background: #960a05;
+    width:auto;
+    height:auto;
+    max-width:3000px;
+    margin: auto;}
+    
+    .menu li a{
+    text-decoration-style: solid;
+    color:rgb(141, 218, 198);
+    padding: 20px;
+    display:block;}
+    
+    .menu li{
+        display:inline-block;
+        text-align:center;}
+        .menu li a:hover{
+        background:HFE2E2E;}
+
+h1{
+    color:orangered;
+    font: size 40px;
+}
